@@ -1,0 +1,18 @@
+.wpaptw-posts-ul{
+	list-style: none;
+}
+.wpaptw-posts-ul .wpaptw-thumbnail{
+	display: inline-block;
+}
+.wpaptw-posts-ul .wpaptw-thumbnail img{
+	width: 75px;
+	height: 75px;
+}
+.wpaptw-posts-ul div.half_title{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 10px;
+	width: calc(100% - 90px);
+}
+.wpaptw-posts-ul li{margin-top: 10px; border-bottom: 1px solid #ccc; padding-bottom: 10px;}
+.wpaptw-posts-ul span.post-date{display: block;}
